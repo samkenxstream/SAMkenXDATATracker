@@ -53,7 +53,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["js-cookie", "npm:3.0.1"],\
             ["list.js", "npm:2.3.1"],\
             ["lodash", "npm:4.17.21"],\
-            ["moment", "npm:2.29.3"],\
+            ["moment", "npm:2.29.4"],\
             ["moment-timezone", "npm:0.5.34"],\
             ["parcel", "npm:2.5.0"],\
             ["select2", "npm:4.1.0-rc.0"],\
@@ -4489,6 +4489,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["moment", "npm:2.29.3"]\
           ],\
           "linkType": "HARD"\
+        }],\
+        ["npm:2.29.4", {\
+          "packageLocation": "./.yarn/cache/moment-npm-2.29.4-902943305d-0ec3f9c2bc.zip/node_modules/moment/",\
+          "packageDependencies": [\
+            ["moment", "npm:2.29.4"]\
+          ],\
+          "linkType": "HARD"\
         }]\
       ]],\
       ["moment-timezone", [\
@@ -5186,7 +5193,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["js-cookie", "npm:3.0.1"],\
             ["list.js", "npm:2.3.1"],\
             ["lodash", "npm:4.17.21"],\
-            ["moment", "npm:2.29.3"],\
+            ["moment", "npm:2.29.4"],\
             ["moment-timezone", "npm:0.5.34"],\
             ["parcel", "npm:2.5.0"],\
             ["select2", "npm:4.1.0-rc.0"],\
