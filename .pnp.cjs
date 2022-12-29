@@ -54,7 +54,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["list.js", "npm:2.3.1"],\
             ["lodash", "npm:4.17.21"],\
             ["moment", "npm:2.29.3"],\
-            ["moment-timezone", "npm:0.5.34"],\
+            ["moment-timezone", "npm:0.5.35"],\
             ["parcel", "npm:2.5.0"],\
             ["select2", "npm:4.1.0-rc.0"],\
             ["select2-bootstrap-5-theme", "npm:1.3.0"],\
@@ -4492,10 +4492,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["moment-timezone", [\
-        ["npm:0.5.34", {\
-          "packageLocation": "./.yarn/cache/moment-timezone-npm-0.5.34-e4fe2d01f6-12a1d3d52e.zip/node_modules/moment-timezone/",\
+        ["npm:0.5.35", {\
+          "packageLocation": "./.yarn/cache/moment-timezone-npm-0.5.35-27dbb6a14d-0f3907282d.zip/node_modules/moment-timezone/",\
           "packageDependencies": [\
-            ["moment-timezone", "npm:0.5.34"],\
+            ["moment-timezone", "npm:0.5.35"],\
             ["moment", "npm:2.29.3"]\
           ],\
           "linkType": "HARD"\
@@ -5187,7 +5187,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["list.js", "npm:2.3.1"],\
             ["lodash", "npm:4.17.21"],\
             ["moment", "npm:2.29.3"],\
-            ["moment-timezone", "npm:0.5.34"],\
+            ["moment-timezone", "npm:0.5.35"],\
             ["parcel", "npm:2.5.0"],\
             ["select2", "npm:4.1.0-rc.0"],\
             ["select2-bootstrap-5-theme", "npm:1.3.0"],\
